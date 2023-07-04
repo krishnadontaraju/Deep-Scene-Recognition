@@ -1,0 +1,21 @@
+name: proj6
+channels:
+- pytorch
+- menpo
+- defaults
+- sepandhaghighi
+dependencies:
+- jupyter
+- matplotlib
+- python
+- scikit-learn
+- scipy
+- opencv
+- pytorch
+- torchvision
+- pycm
+- pip
+- pip:
+  - visdom
+- pyyaml
+- pillow
